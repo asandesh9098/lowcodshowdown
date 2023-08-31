@@ -104,7 +104,7 @@ def main():
     add_logo()
 
     st.write("We are oraginsing an event this Saavan with the name of Low-Code Showdown, a competitive event for people who are enthusiaistic about coding mainly involving logicla and algorithmic approach and less of coding")
-
+    st.write("\n\nRegister Here: https://saavan.iitmparadox.org/events/technical/35")
     st.subheader("About the Event")
 
     st.markdown("""
